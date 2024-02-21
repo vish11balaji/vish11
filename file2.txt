@@ -1,1 +1,1 @@
-This is 2nd git file.
+This is 2nd git file. Corrected 2nd file and committed.
